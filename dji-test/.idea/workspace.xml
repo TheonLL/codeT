@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26eba330-609e-460c-8327-8377021f3fb9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="286" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1whXmyiVrlPzlmalZCOV7Thvm6y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.Points">
+    <configuration name="Points" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Points" />
+      <module name="dji-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wy3.Solution" />
+      <module name="dji-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="wy3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dy.Solution" />
+      <module name="dji-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Text" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Text" />
+      <module name="dji-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jonsefu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.jonsefu" />
+      <module name="dji-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Points" />
+        <item itemvalue="Application.Text" />
+        <item itemvalue="Application.jonsefu" />
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26eba330-609e-460c-8327-8377021f3fb9" name="Default Changelist" comment="" />
+      <created>1628911958831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628911958831</updated>
+      <workItem from="1628911965148" duration="7522000" />
+      <workItem from="1630147380023" duration="12456000" />
+      <workItem from="1630320178004" duration="8467000" />
+      <workItem from="1630375291045" duration="663000" />
+      <workItem from="1630750527506" duration="7385000" />
+      <workItem from="1630982140227" duration="8823000" />
+      <workItem from="1631087606495" duration="6138000" />
+      <workItem from="1631157661454" duration="3331000" />
+      <workItem from="1631328003139" duration="2124000" />
+      <workItem from="1631618182082" duration="5077000" />
+      <workItem from="1631671375903" duration="707000" />
+      <workItem from="1631713614121" duration="2245000" />
+      <workItem from="1631791300497" duration="4573000" />
+      <workItem from="1631877750091" duration="16637000" />
+      <workItem from="1632039208698" duration="5066000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="482" y="108" key="#Auto_Import" timestamp="1631016293007">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="452" y="101" key="#Auto_Import/0.0.1920.1050@0.0.1920.1050" timestamp="1630153118748" />
+    <state x="482" y="108" key="#Auto_Import/2560.103.1920.1042/0.0.2048.1122@0.0.2048.1122" timestamp="1631016293007" />
+    <state x="517" y="137" key="#Project_Structure" timestamp="1628912002982">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="517" y="137" key="#Project_Structure/0.0.2048.1122@0.0.2048.1122" timestamp="1628912002982" />
+    <state x="627" y="214" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1630150716393">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="627" y="214" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1630150716393" />
+    <state x="755" y="260" key="FileChooserDialogImpl" timestamp="1628911972971">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="755" y="260" key="FileChooserDialogImpl/0.0.2048.1122@0.0.2048.1122" timestamp="1628911972971" />
+    <state width="1867" height="146" key="GridCell.Tab.0.bottom" timestamp="1632049923775">
+      <screen x="2560" y="103" width="1920" height="1042" />
+    </state>
+    <state width="1867" height="210" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1631883274399" />
+    <state width="1995" height="323" key="GridCell.Tab.0.bottom/0.0.2048.1122@0.0.2048.1122" timestamp="1631081864063" />
+    <state width="1995" height="465" key="GridCell.Tab.0.bottom/2560.103.1920.1042/0.0.2048.1122@0.0.2048.1122" timestamp="1632039492101" />
+    <state width="1867" height="146" key="GridCell.Tab.0.bottom/2560.103.1920.1042/0.0.2048.1122@2560.103.1920.1042" timestamp="1632049923775" />
+    <state width="1867" height="146" key="GridCell.Tab.0.center" timestamp="1632049923775">
+      <screen x="2560" y="103" width="1920" height="1042" />
+    </state>
+    <state width="1867" height="210" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1631883274399" />
+    <state width="1995" height="323" key="GridCell.Tab.0.center/0.0.2048.1122@0.0.2048.1122" timestamp="1631081864063" />
+    <state width="1995" height="465" key="GridCell.Tab.0.center/2560.103.1920.1042/0.0.2048.1122@0.0.2048.1122" timestamp="1632039492101" />
+    <state width="1867" height="146" key="GridCell.Tab.0.center/2560.103.1920.1042/0.0.2048.1122@2560.103.1920.1042" timestamp="1632049923775" />
+    <state width="1867" height="146" key="GridCell.Tab.0.left" timestamp="1632049923775">
+      <screen x="2560" y="103" width="1920" height="1042" />
+    </state>
+    <state width="1867" height="210" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1631883274398" />
+    <state width="1995" height="323" key="GridCell.Tab.0.left/0.0.2048.1122@0.0.2048.1122" timestamp="1631081864063" />
+    <state width="1995" height="465" key="GridCell.Tab.0.left/2560.103.1920.1042/0.0.2048.1122@0.0.2048.1122" timestamp="1632039492100" />
+    <state width="1867" height="146" key="GridCell.Tab.0.left/2560.103.1920.1042/0.0.2048.1122@2560.103.1920.1042" timestamp="1632049923775" />
+    <state width="1867" height="146" key="GridCell.Tab.0.right" timestamp="1632049923775">
+      <screen x="2560" y="103" width="1920" height="1042" />
+    </state>
+    <state width="1867" height="210" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1631883274399" />
+    <state width="1995" height="323" key="GridCell.Tab.0.right/0.0.2048.1122@0.0.2048.1122" timestamp="1631081864063" />
+    <state width="1995" height="465" key="GridCell.Tab.0.right/2560.103.1920.1042/0.0.2048.1122@0.0.2048.1122" timestamp="1632039492101" />
+    <state width="1867" height="146" key="GridCell.Tab.0.right/2560.103.1920.1042/0.0.2048.1122@2560.103.1920.1042" timestamp="1632049923775" />
+    <state width="1995" height="355" key="GridCell.Tab.1.bottom" timestamp="1630239681875">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="1995" height="355" key="GridCell.Tab.1.bottom/2560.103.1920.1042/0.0.2048.1122@0.0.2048.1122" timestamp="1630239681875" />
+    <state width="1867" height="355" key="GridCell.Tab.1.bottom/2560.103.1920.1042/0.0.2048.1122@2560.103.1920.1042" timestamp="1630239133791" />
+    <state width="1995" height="355" key="GridCell.Tab.1.center" timestamp="1630239681875">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="1995" height="355" key="GridCell.Tab.1.center/2560.103.1920.1042/0.0.2048.1122@0.0.2048.1122" timestamp="1630239681875" />
+    <state width="1867" height="355" key="GridCell.Tab.1.center/2560.103.1920.1042/0.0.2048.1122@2560.103.1920.1042" timestamp="1630239133791" />
+    <state width="1995" height="355" key="GridCell.Tab.1.left" timestamp="1630239681875">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="1995" height="355" key="GridCell.Tab.1.left/2560.103.1920.1042/0.0.2048.1122@0.0.2048.1122" timestamp="1630239681875" />
+    <state width="1867" height="355" key="GridCell.Tab.1.left/2560.103.1920.1042/0.0.2048.1122@2560.103.1920.1042" timestamp="1630239133791" />
+    <state width="1995" height="355" key="GridCell.Tab.1.right" timestamp="1630239681875">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state width="1995" height="355" key="GridCell.Tab.1.right/2560.103.1920.1042/0.0.2048.1122@0.0.2048.1122" timestamp="1630239681875" />
+    <state width="1867" height="355" key="GridCell.Tab.1.right/2560.103.1920.1042/0.0.2048.1122@2560.103.1920.1042" timestamp="1630239133791" />
+    <state x="410" y="120" key="SettingsEditor" timestamp="1629017333206">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="410" y="120" key="SettingsEditor/0.0.2048.1122@0.0.2048.1122" timestamp="1628922804930" />
+    <state x="410" y="120" key="SettingsEditor/2560.103.1920.1042/0.0.2048.1122@0.0.2048.1122" timestamp="1629017333206" />
+    <state x="2721" y="162" key="new project wizard" timestamp="1632049761730">
+      <screen x="2560" y="103" width="1920" height="1042" />
+    </state>
+    <state x="2721" y="162" key="new project wizard/2560.103.1920.1042/0.0.2048.1122@2560.103.1920.1042" timestamp="1632049761730" />
+    <state x="597" y="258" key="run.anything.popup" timestamp="1631012841208">
+      <screen x="0" y="0" width="2048" height="1122" />
+    </state>
+    <state x="597" y="258" key="run.anything.popup/2560.103.1920.1042/0.0.2048.1122@0.0.2048.1122" timestamp="1631012841208" />
+    <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup" timestamp="1631620109534">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="539" y="15" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1631620109534" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/bytedance/Test.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/bytedance/Test.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dji_test$Solution.ic" NAME="Solution Coverage Results" MODIFIED="1630238750953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
